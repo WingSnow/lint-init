@@ -1,0 +1,19 @@
+body {
+  margin: 0
+}
+
+#heading {
+  position: absolute;
+  top: 50%;
+  margin-top: -5rem;
+  width: 100%;
+  text-align: center;
+}
+
+#title{
+  font-size: 5rem;
+}
+
+#slogan{
+  font-size: 1rem;
+}

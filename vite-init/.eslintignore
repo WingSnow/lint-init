@@ -1,0 +1,3 @@
+# 包含部分.开头的配置文件
+!.prettierrc.js
+!.stylelintrc.js
