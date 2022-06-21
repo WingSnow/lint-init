@@ -11,4 +11,4 @@
 
 ## 指南
 
-[Linter 配置指南](#todo)
+[Linter 配置指南](https://wingsnow.github.io/wingsnow-blog/web/javascript/2-linter%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97.html)
